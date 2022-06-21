@@ -1,5 +1,3 @@
-# send-text-message-with-excel
-send text message with excel and api pushbullet
 # 📤 Envoyer un message dans excel
 
 - send messages to infinity with pushbullet pro at 5$ per month (otherwise 100 sms per me free).
